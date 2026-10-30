@@ -11,7 +11,8 @@
 **Point of Sale**
 - Fast billing with barcode support and thermal receipt printing (English and Sinhala)
 - Sinhala short-name product search
-- Returns, credit sales, courier orders and non-VAT sales
+- Returns, credit sales and non-VAT sales
+- Courier order management with delivery charge tracking
 - Shifts, end-of-day cash reconciliation and day summary
 
 **Inventory**
@@ -27,6 +28,7 @@
 - Profit & Loss statement and financial reports
 - Cheque management (issued and received), bank reconciliation, petty cash
 - Cash and bank book, daily receipts and payments
+- VAT input and output reports, with separate handling for non-VAT sales
 
 **Administration**
 - User management with roles
@@ -64,7 +66,7 @@ Plain PHP (no framework), MySQL with prepared statements, and vanilla JavaScript
 
 ## 📫 Contact
 
-Built by **Hasitha Lakmal Jayasundara** (SWAG Solutions).
+Built by **Hasitha Lakmal Jayasundara** (SWAG Solutions).  
 Want a demo or a similar system for your business?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasitha-lakmal-jayasundara-5657a32b0)
